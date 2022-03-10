@@ -2,7 +2,7 @@
 Hi 👋  I'm Calisto 👨‍💻
 </h1>
   
-<h4 align='center'>
+<h5 align='center'>
   
 I'm a Software Quality Analyst at Blockchain One and iOS Developer in training at the Apple Developer Academy (2022-2023)! <br>
 My highest level of experience is with automated tests using CYPRESS and specialist in Load and Performance Tests. <br>
@@ -13,10 +13,10 @@ Most of my repositories are private due to corporate secrecy, but I keep creatin
   
   <br> 
 📫 How to reach me: <br>
-  My email <a href="mailto:mateus.bruno.calisto@gmail.com">mateus.bruno.calisto@gmail.com</a> or my 
+  My email <a href="mailto:mateus.bruno.calisto@gmail.com">mateus.bruno.calisto@gmail.com</a> or 
   <a href="www.linkedin.com/mateuscalisto">Linkedin</a>!
 
-</h4>
+</h5>
 
 <details>
   <summary>📃 Resume</summary>
@@ -62,9 +62,5 @@ Most of my repositories are private due to corporate secrecy, but I keep creatin
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="blank_"/>
   <p></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbcalisto&theme=dark&show_icons=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </details>
 
