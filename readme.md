@@ -10,7 +10,6 @@ My highest level of experience is with automated tests using CYPRESS and special
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbcalisto&theme=dark&show_icons=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
   
 Most of my repositories are private due to corporate secrecy, but I keep creating and will soon update with more personal projects. <br>
-  
   <br> 
 How to reach me: <br>
   My email <a href="mailto:mateus.bruno.calisto@gmail.com">mateus.bruno.calisto@gmail.com</a> or 
