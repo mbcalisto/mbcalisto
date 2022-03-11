@@ -12,7 +12,7 @@ My highest level of experience is with automated tests using CYPRESS and special
 Most of my repositories are private due to corporate secrecy, but I keep creating and will soon update with more personal projects. <br>
   
   <br> 
-📫 How to reach me: <br>
+How to reach me: <br>
   My email <a href="mailto:mateus.bruno.calisto@gmail.com">mateus.bruno.calisto@gmail.com</a> or 
   <a href="www.linkedin.com/mateuscalisto">Linkedin</a>!
 
