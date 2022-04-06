@@ -4,11 +4,9 @@ Hi 👋  I'm Calisto 👨‍💻
   
 <h5 align='center'>
   
-I'm a Software Quality Analyst at Blockchain One and iOS Developer in training at the Apple Developer Academy (2022-2023)! <br>
-My highest level of experience is with automated tests using CYPRESS and specialist in Load and Performance Tests. <br>
+I'm Software Quality Analyst at Blockchain One and iOS Developer Intern in Apple Developer Academy (2022-2023)! <br>
+My highest experience it's automated tests using CYPRESS and specialist in Load and Performance Tests. <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbcalisto&theme=dark&show_icons=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
-  
 How to reach me: <br>
 My email <a href="mailto:mateus.bruno.calisto@gmail.com">mateus.bruno.calisto@gmail.com</a> or 
 <a href="www.linkedin.com/mateuscalisto">Linkedin</a>!
