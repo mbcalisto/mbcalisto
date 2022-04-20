@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="240">
+<img align='right' src="https://media.giphy.com/media/M0wXSgphkQEW4INqvw/giphy.gif" width="330">
 <h2 align='center'>
 Hi! I'm Calisto <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/> 
 </h2>
