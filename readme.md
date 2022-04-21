@@ -1,4 +1,4 @@
-<samp>
+
 <h2 align='center'>
 Hi! I'm Calisto <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/> 
 </h2>
@@ -15,7 +15,7 @@ How to reach me: <br> <br>
 </h4>
 
 <details>
-  <summary>🤠 About Me </summary>
+  <summary><b>🤠 About Me </b></summary>
  
   - I'm Student of Computer Engenering - 5th Semester in IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
   and i'm Software Quality Analyst at Blockchain One and iOS Developer Intern in Apple Developer Academy (2022-2023)!
@@ -29,7 +29,7 @@ How to reach me: <br> <br>
 </details>
   
 <details>
-  <summary>🔧 Technologies & Tools </summary>
+  <summary><b>🔧 Technologies & Tools </b> </summary>
   <br>
 
 ```swift 
@@ -45,7 +45,7 @@ class calisto {
 </details>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary><b>📃 Resume</b></summary>
   
 - 👨‍💻 **iOS Developer Intern**\
 📆 2021 - moment\
