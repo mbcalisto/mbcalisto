@@ -4,7 +4,7 @@ Hi! I'm Calisto <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHe
 </h2>
 
 <h4 align='center'>
-Welcome! I separated my Github in topics, feel free to check it out! 
+I separated my Github in topics, feel free to check it out! 
 
 <h4 align='center'>
 How to reach me: <br> <br>
