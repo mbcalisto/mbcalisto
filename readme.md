@@ -38,7 +38,7 @@ class calisto {
   var code = "Javascript, Swift";
   var tools = "Node, NPM";
   var editor = "VSCode, Xcode";
-  var challenge = "I am doing a few course on Udemy and 100 days of Swift";
+  var challenge = "I am doing a few course on Udemy, learning Flute and trying my best everyday";
 }
 ```
 
