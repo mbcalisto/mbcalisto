@@ -9,7 +9,7 @@ Hi! I'm Calisto!
    
 ```swift 
 class calisto {
-  var qualityAssurance = "Cypress, JMeter, LoadRunner, Selenium";
+  var qualityAssurance = "Cypress, JMeter, Selenium";
   var languages = "Javascript, Swift";
   var editor = "VSCode, Xcode";
   var designTools = "Figma, Photoshop, Illustrator";
