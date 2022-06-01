@@ -4,15 +4,30 @@ Hi! I'm Calisto!
 </h2>
 
 <h4 align='center'>
+  <!--
 I separated my Github in topics, feel free to check it out! 
-
+-->
+  </h4>
+   
+```swift 
+class calisto {
+  var frameworks = "Cypress, JMeter, LoadRunner, Selenium";
+  var code = "Javascript, Swift";
+  var tools = "Node, NPM";
+  var editor = "VSCode, Xcode";
+  var design = "Figma, Photoshop, Illustrator";
+  var challenge = "I am doing a few course on Udemy, learning Flute and trying my best everyday";
+}
+```
+  
 <h4 align='center'>
 How to reach me: <br> <br>
 <a href="https://www.linkedin.com/in/mateuscalisto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mateus.bruno.calisto@gmail.com?subject=Hello%20Calisto,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
+  <!--
 ##
 </h4>
+ 
 
 <details>
   <summary><b>🤠 About Me </b></summary>
@@ -32,16 +47,7 @@ How to reach me: <br> <br>
   <summary><b>🔧 Technologies & Tools </b> </summary>
   <br>
 
-```swift 
-class calisto {
-  var frameworks = "Cypress, JMeter, LoadRunner, Selenium";
-  var code = "Javascript, Swift";
-  var tools = "Node, NPM";
-  var editor = "VSCode, Xcode";
-  var design = "Figma, Photoshop, Illustrator";
-  var challenge = "I am doing a few course on Udemy, learning Flute and trying my best everyday";
-}
-```
+
 
 </details>
 
