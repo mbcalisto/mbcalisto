@@ -45,19 +45,3 @@ class calisto {
 
 </details>
 
-<details>
-  <summary><b>📃 Resume</b></summary>
-  
-- 👨‍💻 **iOS Developer Intern**\
-📆 2021 - moment\
-📍 **Apple Developer Academy** - Fortaleza/CE, Brazil
- 
-
-- 👨‍💻 **Software Quality Analyst**\
-📆 2021 - moment\
-📍 **Blockchain One** - Fortaleza/CE, Brazil
-  
-- 👨‍💻 **Programming Teacher**\
-📆 2020 - jun/2021\
-📍 **Cedaspy** - Fortaleza/CE, Brazil
-</details>
