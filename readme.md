@@ -4,9 +4,9 @@
    
 ```swift 
 class calisto {
-  var qualityAssurance = "Cypress, JMeter, Selenium";
-  var languages = "Javascript, Swift";
-  var designTools = "Figma, Photoshop, Illustrator";
+  var qualityAssurance = "Cypress, JMeter";
+  var mobileDeveloper = "Swift, Flutter";
+  var design = "Figma, Photoshop, Illustrator";
   var challenge = "Trying my best everyday!";
 }
 ```
