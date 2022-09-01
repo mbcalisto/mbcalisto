@@ -5,7 +5,7 @@
 ```swift 
 class calisto {
   var qualityAssurance = "Cypress, JMeter";
-  var mobileDeveloper = "Swift, Flutter";
+  var mobileDeveloper = "Swift, UIKit, SwiftUI, Objc";
   var design = "Figma, Photoshop, Illustrator";
   var challenge = "Trying my best everyday!";
 }
