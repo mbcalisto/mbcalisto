@@ -6,7 +6,7 @@
 ```swift 
 class calisto {
   var programmingLanguages = "Swift, Java, Javascript, Python, NodeJS";
-  var qualityAssurance = "Cypress, Selenium, JMeter, K6, Webdriver.io, Appium";
+  var qualityAssurance = "Cypress, Selenium, JMeter, Webdriver.io, Appium";
   var mobileDeveloper = "Swift, UIKit, SwiftUI, Flutter";
   var design = "Figma, Photoshop, Illustrator, InDesign, AdobeXD";
   var hobbies = "Flute, Cooking, Swimming";
