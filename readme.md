@@ -11,6 +11,7 @@ class calisto {
   var design = "Figma, Photoshop, Illustrator, InDesign, AdobeXD";
   var hobbies = "Flute, Cooking, Swimming";
   var challenge = "Trying my best everyday!";
+
 }
 ```
   
