@@ -1,6 +1,5 @@
 <h2 align='center'>Hi! I'm Calisto!</h2>
-<img src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a.js" min-width="550px" max-width="550px" width="350" align="right">
-
+<script src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a.js" min-width="550px" max-width="550px" width="350" align="right"></script>
 ```swift 
 class calisto {
   var qualityAssurance = "Cypress, JMeter";
