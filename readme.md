@@ -1,5 +1,6 @@
 <h2 align='center'>Hi! I'm Calisto!</h2>
-   <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="550px" max-width="550px" width="350" align="right" alt="Computer Calisto">
+<img src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a.js" min-width="550px" max-width="550px" width="350" align="right" alt="Calisto on Computer">
+
 ```swift 
 class calisto {
   var qualityAssurance = "Cypress, JMeter";
