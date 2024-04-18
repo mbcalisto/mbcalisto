@@ -1,6 +1,6 @@
 <h2 align='center'>Hi! I'm Calisto!</h2>
 
-<img src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" min-width="550px" max-width="550px" width="350" align="right" alt="Calisto on Computer">
+<img src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" min-width="550px" max-width="550px" width="330" align="right" alt="Calisto on Computer">
     
    
 ```swift 
@@ -11,7 +11,6 @@ class calisto {
   var design = "Figma, Photoshop, Illustrator, InDesign, AdobeXD";
   var hobbies = "Flute, Cooking, Swimming";
   var challenge = "Trying my best everyday!";
-
 }
 ```
   
